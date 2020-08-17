@@ -2,7 +2,8 @@
 Notes for Code 102d18.
 
 ## About me
-I am Alexandria
+My name is Alexandria. I am from Chatsworth, Georgia and currently just moved to Seattle to start my life over
+and to start a career in Software Development.
 
 ### Growth Mindset in a nutshell
 Growth Mindset to me is learning not to give up when things get hard and learn to work hard in every field i do. I need to
