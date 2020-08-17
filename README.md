@@ -13,4 +13,4 @@ behind me.
 ### Reminders for staying in a Growth Midset
 - Keep focused and remind yourself it is ok to fail.
 - Don't compare myself to others. It's ok to be a slower learner
-- Don't be afraid to embrace the challenges I am up against. Don't run away when things get hard!
+- Don't be afraid to embrace the challenges I am up against. ***Don't run away when things get hard!***
