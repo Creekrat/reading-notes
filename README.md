@@ -12,7 +12,7 @@ learn new things and learn how to overcome obstacles and not to be afraid to ask
 behind me.
 In the words of Aaron Burr:
 > I am the one thing in life I can control!
-
+[Wait for It!](https://youtu.be/ulsLI029rH0)
 ### Reminders for staying in a Growth Midset
 - Keep focused and remind yourself it is ok to fail.
 - Don't compare myself to others. It's ok to be a slower learner
