@@ -11,7 +11,9 @@ Where Markdown can be used in GitHub
   - Gists
   - comments in issues and pull requests
   - Files with the .md or .markdown extention
-  [<==Back](README.md)
+  [<==Back](README.md)  
+  
+
   Here are some examples of styles you can do in Markdown
    - **Bold text**
    - *italics*
