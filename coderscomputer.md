@@ -30,3 +30,17 @@ Features of text editors
   - different lines present the prompt, followed by the command , followed by the command line arguments. (note: these are seperated by spaces)
     - command- ls
     - command argument- -l, -al
+ - once these lines are in place there are lines with the output from running the command.
+ - once the outputs are done, you are presented with the prompt again.
+
+
+Many tasks rely on being able to get to, or reference the correct location in the system.
+
+**Different Commands**
+ - PWD- Print Working Directory. Tells you what your current or present working directory is. The Loctation of it.
+ - LS- Short for list. Lists the commands of a directory
+ - CD- Change Directories. Move to another Directory.
+ 
+ *Relative path*- A file or directory location relative to where you are in the file.
+ *Absolute path*- A file or directory location in relation to the root of the file.
+
