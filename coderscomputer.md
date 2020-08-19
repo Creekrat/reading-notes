@@ -10,9 +10,9 @@
 
 Text editors allow you to write and manage text, especially the text that you write to build a website. Some text editors come already installed onto your computer.
 
- **Mac** - Text Edit
-**Windows** - Notepad
- **Linux** - can go by different names based on the Linux of your choice. Always make sure you know which one comes with your Linux.
+ -  **Mac** - Text Edit
+ - **Windows** - Notepad
+ - **Linux** - can go by different names based on the Linux of your choice. Always make sure you know which one comes with your Linux.
 
 Features of text editors
  - code completion
@@ -20,4 +20,3 @@ Features of text editors
  - a nice variety of themes
  - you can choose from a selection of extentions
 
- 
