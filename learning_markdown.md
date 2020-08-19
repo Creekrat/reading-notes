@@ -16,7 +16,7 @@ Where Markdown can be used in GitHub
   Here are some examples of styles you can do in Markdown
    - **Bold text**
    - *italics*
-    - [name](webpage) = [Links](http://manpages.ubuntu.com/manpages/artful/en/man7/man-pages.7.html)
+   - [name](webpage) = for links to webpages
 
 
    Images can also be added just refer back to the link and add link to an image like so:
