@@ -20,3 +20,13 @@ Features of text editors
  - a nice variety of themes
  - you can choose from a selection of extentions
 
+## The Command line (or Terminal)
+
+ The command line is a text based interface to a system. You are able to enter commands by typing them on the keyboard and you will then recieve feedback in text as well.
+
+ you issue commands into the terminal and the terminal presents you with a prompt.
+
+ **lines**
+  - different lines present the prompt, followed by the command , followed by the command line arguments. (note: these are seperated by spaces)
+    - command- ls
+    - command argument- -l, -al
