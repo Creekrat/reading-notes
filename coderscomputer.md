@@ -42,6 +42,21 @@ Many tasks rely on being able to get to, or reference the correct location in th
  - CD- Change Directories. Move to another Directory.
  
  *Relative path*- A file or directory location relative to where you are in the file.
- 
+
  *Absolute path*- A file or directory location in relation to the root of the file.
 
+To understand a linux or command line we need to know that EVERYTHING IS A FILE... from text and directories to (yes) your keyboard..
+
+Be aware of case sensitive
+ - spaces
+ - quotes
+ - backslashes
+
+**File**- obtain info about what type of file or directory is.
+
+**ls -a**- list the contents of a directory, including hidden files
+
+**Everything is a file**
+**Linux is an extentionless system**
+**LInux is case sensitive**
+ - Be aware of dumb mistakes!
