@@ -21,4 +21,5 @@ In the words of Aaron Burr:
 ## Table of Contents
   - [learning_markdown](learning_markdown.md)
   - [coders computer](coderscomputer.md)
-      
+  - [html](html.md)
+  - [git](git.md)
