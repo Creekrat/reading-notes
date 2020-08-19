@@ -42,5 +42,6 @@ Many tasks rely on being able to get to, or reference the correct location in th
  - CD- Change Directories. Move to another Directory.
  
  *Relative path*- A file or directory location relative to where you are in the file.
+ 
  *Absolute path*- A file or directory location in relation to the root of the file.
 
