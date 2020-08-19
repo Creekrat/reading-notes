@@ -54,3 +54,16 @@ When a webpage has a lot of content you always want to make sure everything is o
  - good context
  - interactive
  - consistent
+
+ Also, be aware of the new HTML5 layout:
+  
+  Elements:
+   - Many of the elements have been added like: headers, footers, navs, articles, aside, section, hgrouping, figure, figcaption, and more
+   - div is still used in grouping a lot of related elements together.
+   - you have to include a line of CSS in some browsers for them to understand the new HTML5 elements. (a pain..)
+
+   The new HTML5 elements tell you the purpose for every part of the webpage and it helps to describe its structure. A lot easier to understand.
+
+   They provide clear code without the use of multiple divs.
+
+   and on some occasions, extra JavaScript is needed for elements to work.
