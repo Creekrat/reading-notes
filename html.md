@@ -1,6 +1,8 @@
 **HTML v.s CSS**
  
  *HTML*
+
+ Hypertext Markup Language
   
   When it comes to building any webpage you always have to make sure you know who your target audience is. This can be:
 
@@ -67,3 +69,15 @@ When a webpage has a lot of content you always want to make sure everything is o
    They provide clear code without the use of multiple divs.
 
    and on some occasions, extra JavaScript is needed for elements to work.
+
+   *CSS*
+
+
+   Cascading Style Sheets
+
+
+   Css is the design of a webpage. Made to make it all look pretty! :D
+
+
+
+
