@@ -71,3 +71,5 @@ Find the right color picker to help you choose the best colors.
 Also to indicate opacity use RGBA or the opacity value use HSLA.
 
 *Be mindful of the amount of contrast between any text and background. Visitors may not be able to read your content.*
+
+[<==Back](README.md)
