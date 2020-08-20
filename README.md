@@ -24,3 +24,4 @@ In the words of Aaron Burr:
   - [html](html.md)
   - [git](git.md)
   - [CSS](css.md)
+  - [JavaScript](java.md)
