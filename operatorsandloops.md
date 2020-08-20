@@ -9,9 +9,9 @@ Here are some different types of Boolean (or True or False) symbols used.
  - === : Strict Equal to
  - != : Is not equal to
  - !== : Strict is not equal to
- - > : Greater than
+ - (>) : Greater than
  - < : Less than
- - >= : Greater than or equal to
+ - (>=) : Greater than or equal to
  - <= : Less than or equal to
 
 
