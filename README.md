@@ -26,3 +26,4 @@ In the words of Aaron Burr:
   - [CSS](css.md)
   - [JavaScript](java.md)
   - [HowComputersWork](computers.md)
+  - [ProgrammingWithJavaScript](introtofunctions.md)
