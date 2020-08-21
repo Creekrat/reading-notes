@@ -11,13 +11,13 @@ Intro + Scripts
 
    JavaScript lets you make webpages more interactive by accessing and modifying content using markup used in a webpage, while it is being viewed in the browser.
 
-   Examples of JavaScript in a browser:
+ Examples of JavaScript in a browser:
   - Slideshows
   - Forms
   - Reloading parts of pages
   - Filtering data
 
-    What is a Script?
+ What is a Script?
 
     Well, it is a series of instructions that a computer follows to complete it's goal. (Like you in this class....Follow the instructions step by step and your outcome will be flashy and fantastic.....)
 
@@ -96,35 +96,31 @@ Intro + Scripts
        And String
 
        String has only one operator
+- +
+ Used to join things on either side of the string. and joining two or more strings is called a  *Concatenation*
 
-        - +
-        USed to join things on either side of the string. and joining two or more strings is called a *Concatenation*
+now numbers get a little funky...
 
-        now numbers get a little funky...
+ a number becomes a string when in quotes, but put one number into quotes and the other not into quotes you messed somthing up. Now with that said, a number added to a string becomes a part of that string...
 
-        a number becomes a string when in quotes, but put one number into quotes and the other not into quotes you messed somthing up. Now with that said, a number added to a string becomes a part of that string...
+**Functions**
 
+Functions let you group a series of statements together to preform a task.
 
+You can wrap specific codes into a function so it doesn't have to be repeated and it can be used anywhere.
 
-        **Functions**
+Declare a function using the Function *Keyword* then give the function a name followed by parenthesis. Now the statementd that perform these sit in a code block within curly brackets.
 
-        Functions let you group a series of statements together to preform a task.
+now you must declare a function first before calling it but once it is declared you call a function by executing the statements.
 
-        You can wrap specific codes into a function so it doesn't have to be repeated and it can be used anywhere.
+Now some functions must run with specific tasks in mind.
 
-        Declare a function using the Function *Keyword* then give the function a name followed by parenthesis. Now the statementd that perform these sit in a code block within curly brackets.
+If this is the case indicate what the function needs in the parenthesis after the function name. These items are known as Parameters of a function.
 
+Now don't get Parameters confused with Arguments. They may be alike in some ways but they have their subtle difference: 
 
-        now you must declare a function first before calling it but once it is declared you call a function by executing the statements.
+particular details or numeracle variables are arguments and the parameters are just the names of variables within functions.
 
-        Now some functions must run with specific tasks in mind.
-
-        If this is the case indicate what the function needs in the parenthesis after the function name. These items are known as Parameters of a function.
-
-        Now don't get Parameters confused with Arguments. They may be alike in some ways but they have their subtle difference: 
-
-        particular details or numeracle variables are arguments and the parameters are just the names of variables within functions.
-
-        Some functions return info to the code that called them. Lke a calculator.
+Some functions return info to the code that called them. Lke a calculator.
 
 [<==Back](README.md)
