@@ -44,5 +44,13 @@ Examples:
     - Condition : loop continues to run until the counter reach a certain number.
     - Update : everytime the loop runs the statements, it adds one to the counter.
     
+ A While loop is used when you have no idea how many times you want to run something over and over.
+ 
+ When you write a loop you just need to make sure that it will run correctly either with the amount of times you need it to(FOR) or run until it is false because you have no idea how long you want to run it for(While).
 
+ Run your loop FOR 3 times and stop.
+
+ Run your loop a WHILE until you are satisfied.
+
+ [<==Back](README.md)
 

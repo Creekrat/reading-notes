@@ -27,3 +27,4 @@ In the words of Aaron Burr:
   - [JavaScript](java.md)
   - [HowComputersWork](computers.md)
   - [ProgrammingWithJavaScript](introtofunctions.md)
+  - [OperatorsandLoops](operatorsandloops.md)
