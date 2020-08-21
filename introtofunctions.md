@@ -12,10 +12,10 @@ Intro + Scripts
    JavaScript lets you make webpages more interactive by accessing and modifying content using markup used in a webpage, while it is being viewed in the browser.
 
    Examples of JavaScript in a browser:
-    - Slideshows
-    - Forms
-    - Reloading parts of pages
-    - Filtering data
+  - Slideshows
+  - Forms
+  - Reloading parts of pages
+  - Filtering data
 
     What is a Script?
 
